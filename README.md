@@ -94,7 +94,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
+# Video Streaming Application
 
+## Overview
+
+This project is a video streaming application built with React and Material-UI. It allows users to search for videos, view detailed information about specific videos, and explore channels.
+
+![Thumbnail](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+
+## Purpose
+
+The primary purpose of this application is to provide users with an intuitive interface to discover and watch videos...
 
 
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
