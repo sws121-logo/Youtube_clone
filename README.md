@@ -1,4 +1,4 @@
-Here's a professional README.md for your React project:
+
 
 ```markdown
 # Video Streaming Application
