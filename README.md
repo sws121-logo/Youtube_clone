@@ -1,4 +1,4 @@
-Here’s an updated README.md that goes into detail about the purpose of the project, what it does, and includes all necessary information for the Video Streaming Application:
+
 
 ```markdown
 # Video Streaming Application
