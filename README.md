@@ -58,7 +58,7 @@ Ensure that you have the following installed:
 
    Run the following command in your terminal:
    ```bash
-   git clone https://github.com/swa121-logo/video-streaming-app.git
+   git clone https://github.com/sws121-logo/video-streaming-app.git
    cd video-streaming-app
    ```
 
